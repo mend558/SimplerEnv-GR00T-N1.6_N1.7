@@ -5,7 +5,7 @@
 ## Setting up
 
 Follow the instructions for instalation of the GR00T model in the repository: for GR00T N1.7 (https://github.com/NVIDIA/Isaac-GR00T) and GR00T N1.6 (https://github.com/NVIDIA/Isaac-GR00T/tree/n1d6). 
-It will clone the repository and install GR00T in a uv enviroment with it's dependecies. 
+It will clone the repository and install GR00T in a uv enviroment with it's dependencies. 
 
 Make sure the shared system libraries are installed:
 ```bash
